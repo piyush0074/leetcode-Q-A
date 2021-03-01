@@ -1,5 +1,5 @@
 /*
-https://leetcode.com/problems/shuffle-the-array/submissions/
+https://leetcode.com/problems/shuffle-the-array/
 */
 
 #include <vector>
