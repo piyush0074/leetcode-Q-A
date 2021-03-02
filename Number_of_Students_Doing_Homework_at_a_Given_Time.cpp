@@ -2,7 +2,7 @@
 https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 */
 
-#include <vector>
+#include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
 
